@@ -8,7 +8,7 @@
   },
   "shareui_x0": {
     "name": "Simple photo link",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "@shareui",
     "dependencies": [],
     "link": "test/x0.plugin"
