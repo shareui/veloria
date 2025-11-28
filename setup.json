@@ -1,4 +1,11 @@
 {
+  "TestTwo": {
+    "name": "Tes2t",
+    "version": "1.4.0",
+    "author": "@shareui",
+    "dependencies": [],
+    "link": "test.plugin"
+  },
   "TestOne": {
     "name": "Test",
     "version": "1.0.0",
@@ -7,7 +14,7 @@
     "link": "test.plugin"
   },
   "shareui_x0": {
-    "name": "Simple photo link",
+    "name": "Spl test",
     "version": "1.0.1",
     "author": "@shareui",
     "dependencies": [],
