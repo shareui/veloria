@@ -6,11 +6,11 @@
     "dependencies": [],
     "link": "test.plugin"
   },
-  "PluginTwo": {
-    "name": "PluginTwo",
-    "version": "2.3.1",
-    "author": "AuthorTwo",
-    "dependencies": ["PluginOne"],
-    "link": "plugintwo.plugin"
+  "simple-photo-link": {
+    "name": "Simple photo link",
+    "version": "1.0.0",
+    "author": "@shareui",
+    "dependencies": [],
+    "link": "test/x0.plugin"
   }
 }
